@@ -4,12 +4,13 @@
 
 <div align="center">
     <img align="center" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-collin&show_icons=true&locale=en&layout=compact" alt="hugo-collin" />
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=hugo-collin&show_icons=true&locale=en" alt="hugo-collin" />
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=hugo-collin&show_icons=true&locale=en&include_all_commits=true" alt="hugo-collin" />
 
 </div>
 
 
-# 💫 In a Nutshell: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugocollin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hugocoll1n) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hugocollin-portfolio) 
+# 💫 In a Nutshell: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugocollin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hugocoll1n) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hugocollin-portfolio) [<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="22px"/>](https://www.paypal.com/donate/?hosted_button_id=FLPEPKE7UURGW) 
+
 🎓 **Currently in 3rd year of IT Computer Studies** - Software Engineering Oriented.<br>💡 **Creativity and curiosity** drive me to create innovative and useful products that meet concrete needs.<br>✅ **My strengths?** I pay particular attention to the user experience and I am committed to carrying out the projects entrusted to me.
 
 
@@ -39,11 +40,6 @@
                 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
                 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
             </div> 
-            <h3>Others:</h3>
-            <div align="center"> 
-                <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a> 
-                <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a> 
-            </div> 
         </td>
         <td valign="top" width="33%"> 
             <h3>Backend:</h3>
@@ -55,6 +51,11 @@
                 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a> 
                 <a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" /</a>
                 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
+            </div> 
+            <h3>IoT:</h3>
+            <div align="center"> 
+                <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a> 
+                <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a> 
             </div> 
         </td>
 <td valign="top" width="33%"> 
@@ -83,8 +84,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Hugo-COLLIN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-  ## 💌 You can help me by donating:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=FLPEPKE7UURGW) 
+  ## 💌 If you appreciate my work, help me by donating: 
+  <div align="center">
+      <a href="https://www.paypal.com/donate/?hosted_button_id=FLPEPKE7UURGW"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50px"/></a> 
+  </div>
 
 
 
