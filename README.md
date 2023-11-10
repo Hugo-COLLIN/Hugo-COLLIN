@@ -1,8 +1,25 @@
 <h1 align="center">Hi there 👋, I'm Hugo COLLIN</h1>
 <h3 align="center">🎯 Self-learning student in IT | 🧩 SaveMyChatbot | 💻 Experience design, knowledge management and writing passionnate!</h3>
 
+<p align="center">
+  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-collin&show_icons=true&locale=en&layout=compact" alt="hugo-collin" />
+  <img align="center" style="width:40%" src="https://github-readme-stats.vercel.app/api?username=hugo-collin&show_icons=true&locale=en" alt="hugo-collin" />
+</p>
+
 # 💫 About Me:
 🎓 Currently in 3rd year of IT Computer Studies - Software Engineering Oriented.<br>💡 Creativity and curiosity drive me to create innovative and useful products that meet concrete needs.<br>✅ My strengths? I pay particular attention to the user experience and I am committed to carrying out the projects entrusted to me.
+
+<img align="left" style="width:47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hugo-collin&" alt="hugo-collin" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-collin&show_icons=true&locale=en&layout=compact" alt="hugo-collin" />
+
+
+<span style="display:flex; flex-direction:row; justify-content:space-around; width:100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugo-collin&" alt="hugo-collin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-collin&show_icons=true&locale=en&layout=compact" alt="hugo-collin" />
+</span>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@hugocollin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@hugocoll1n) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@hugocollin-portfolio) 
