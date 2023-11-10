@@ -1,10 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Hugo COLLIN</h1>
-<h3 align="center">🎯 Self-learning student in IT | 🧩 SaveMyChatbot | 💻 Experience design, knowledge management and writing passionnate!</h3>
 
-<p align="center">
-  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-collin&show_icons=true&locale=en&layout=compact" alt="hugo-collin" />
-  <img align="center" style="width:40%" src="https://github-readme-stats.vercel.app/api?username=hugo-collin&show_icons=true&locale=en" alt="hugo-collin" />
-</p>
+<h3 align="center"> 🎯 Self-learning student in IT | 🧩 SaveMyChatbot <br> 💻 Experience design, knowledge management and writing passionnate!</h3>
+
+<div align="center">
+  <img align="center" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-collin&show_icons=true&locale=en&layout=compact" alt="hugo-collin" />
+  <img align="center" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=hugo-collin&" alt="hugo-collin" />
+</div>
+
+<br>
+
+<div align="center">
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=hugo-collin&show_icons=true&locale=en" alt="hugo-collin" />
+</div>
+
+
 
 # 💫 About Me:
 🎓 Currently in 3rd year of IT Computer Studies - Software Engineering Oriented.<br>💡 Creativity and curiosity drive me to create innovative and useful products that meet concrete needs.<br>✅ My strengths? I pay particular attention to the user experience and I am committed to carrying out the projects entrusted to me.
