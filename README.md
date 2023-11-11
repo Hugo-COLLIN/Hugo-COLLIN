@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hugo COLLIN</h1>
 
-<h3 align="center"> 🎯 Self-learning student in IT | <a href="https://save.hugocollin.com">🧩 SaveMyChatbot</a> <br> 💻 Experience design, knowledge management and writing passionnate!</h3>
+<h3 align="center"> 🎯 Self-learning student in IT | 🧩 SaveMyChatbot <br> 💻 Experience design, knowledge management and writing passionnate!</h3>
 
 <div align="center">
     <img align="center" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-collin&show_icons=true&locale=en&layout=compact" alt="hugo-collin" />
