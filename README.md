@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Hugo COLLIN</h1>
 
-<h3 align="center"> 🎯 Self-learning student in IT | 🧩 SaveMyChatbot <br> 💻 Experience design, knowledge management and writing passionnate!</h3>
+<h3 align="center"> 🎯 Self-learning student in IT | <a href="https://save.hugocollin.com">🧩 SaveMyChatbot</a> <br> 💻 Experience design, knowledge management and writing passionnate!</h3>
 
 <div align="center">
     <img align="center" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-collin&show_icons=true&locale=en&layout=compact" alt="hugo-collin" />
     <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=hugo-collin&show_icons=true&locale=en&include_all_commits=true" alt="hugo-collin" />
-
 </div>
 
 
@@ -86,7 +85,7 @@
 
   ## 💌 If you appreciate my work, help me by donating: 
   <div align="center">
-      <a href="https://www.paypal.com/donate/?hosted_button_id=FLPEPKE7UURGW"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50px"/></a> 
+      <a href="https://www.paypal.com/donate/?hosted_button_id=FLPEPKE7UURGW" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50px"/></a> 
   </div>
 
 
