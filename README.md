@@ -20,10 +20,12 @@
         </td>
     </tr> -->
     <tr>
-        <td valign="top" width="100%" colspan="3">
+        <td valign="top" colspan="3">
+<!--             <img width="100%" height="1"> -->
             <h3>Languages:</h3>
             <div align="center"> 
-                <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
+                <img width="50" height="1" style="margin: 10px" height="50"/>
+                <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/></a> 
                 <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>
                 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
                 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
@@ -35,7 +37,8 @@
                 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a> 
                 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> 
                 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a> 
-                <a href="https://coffeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a>
+                <a href="https://coffeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/></a>
+                <img width="50" height="1" style="margin: 10px" height="50"/>
             </div>
             <br/>
         </td>
@@ -46,7 +49,7 @@
     </tr> 
     <tr>
         <td valign="top" width="33%"> 
-            <img width="441" height="1"> <!-- Full-width table render on GitHub-->
+            <img width="100%" height="1"> <!-- Full-width table render on GitHub-->
             <h3>Frontend:</h3>
             <div align="center"> 
                 <p>Javascript Frameworks:</p>
@@ -63,7 +66,7 @@
             <br/>
         </td>
         <td valign="top" width="33%"> 
-            <img width="441" height="1"> <!-- Full-width table render on GitHub-->
+            <img width="100%" height="1"> <!-- Full-width table render on GitHub-->
             <h3>Backend:</h3>
             <div align="center"> 
                 <p>Frameworks and environments:</p>
@@ -79,9 +82,9 @@
             </div> 
             <br/>
         </td>
-        <td valign="top" width="33%"> 
-            <img width="441" height="1"> <!-- Full-width table render on GitHub-->
-            <h3>DevOps:</h3>
+        <td valign="top" width="33%" > 
+            <img width="100%" height="1"> <!-- Full-width table render on GitHub-->
+            <h3 style="margin:100px">DevOps:</h3>
             <div align="center">
                 <!--TODO Vercel, GitHub Actions, Section Systems with Windows?, --> 
                 <p>Deployment:</p>
