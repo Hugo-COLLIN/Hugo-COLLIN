@@ -81,12 +81,15 @@
         </td>
         <td valign="top" width="33%"> 
             <img width="441" height="1"> <!-- Full-width table render on GitHub-->
-                <h3>DevOps:</h3> 
-            <div align="center"> 
+            <h3>DevOps:</h3>
+            <div align="center">
+                <!--TODO Vercel, GitHub Actions, Section Systems with Windows?, --> 
+                <p>Deployment:</p>
+                <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
                 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
+                <br/><br/><p>Code management:</p>
                 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
-                <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
-                <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+                <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
             </div> 
             <br/>
         </td>
