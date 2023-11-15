@@ -24,7 +24,7 @@
 <!--             <img width="100%" height="1"> -->
             <h2>Languages:</h2>
             <div align="center"> 
-                <img width="50" height="1" style="margin: 10px"/>
+                <img width="25" height="1" style="margin: 10px"/>
                 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/></a> 
                 <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>
                 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
@@ -38,7 +38,7 @@
                 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> 
                 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a> 
                 <a href="https://coffeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/></a>
-                <img width="50" height="1" style="margin: 10px"/>
+                <img width="25" height="1" style="margin: 10px"/>
             </div>
             <br/>
         </td>
@@ -86,13 +86,15 @@
             <img width="100%" height="1"> <!-- Full-width table render on GitHub-->
             <h2>DevOps:</h2>
             <div align="center">
-                <!--TODO Vercel, GitHub Actions, Section Systems with Windows?, --> 
+                <!--TODO Section Systems with Windows?, --> 
                 <p><b>Deployment:</b></p>
-                <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-                <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
-                <br/><br/><p><b>Code management:</b></p>
                 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
-                <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+                <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+                <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354512/vercel.svg" alt="Vercel" height="50" /></a>                
+                <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+                <br/><br/><p><b>Code management:</b></p>
+                <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
+                <a href="https://github.com/actions" target="_blank"><img style="margin: 10px" src="https://assets-global.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg" alt="GitHub Actions" height="50" /></a> 
             </div> 
             <br/>
         </td>
