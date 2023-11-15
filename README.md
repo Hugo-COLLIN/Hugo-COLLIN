@@ -22,9 +22,9 @@
     <tr>
         <td valign="top" colspan="3">
 <!--             <img width="100%" height="1"> -->
-            <h3>Languages:</h3>
+            <h2>Languages:</h2>
             <div align="center"> 
-                <img width="50" height="1" style="margin: 10px" height="50"/>
+                <img width="50" height="1" style="margin: 10px"/>
                 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/></a> 
                 <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>
                 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
@@ -38,7 +38,7 @@
                 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> 
                 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a> 
                 <a href="https://coffeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/></a>
-                <img width="50" height="1" style="margin: 10px" height="50"/>
+                <img width="50" height="1" style="margin: 10px"/>
             </div>
             <br/>
         </td>
@@ -50,7 +50,7 @@
     <tr>
         <td valign="top" width="33%"> 
             <img width="100%" height="1"> <!-- Full-width table render on GitHub-->
-            <h3>Frontend:</h3>
+            <h2>Frontend:</h2>
             <div align="center"> 
                 <p><b>Javascript Frameworks:</b></p>
                 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
@@ -67,7 +67,7 @@
         </td>
         <td valign="top" width="33%"> 
             <img width="100%" height="1"> <!-- Full-width table render on GitHub-->
-            <h3>Backend:</h3>
+            <h2>Backend:</h2>
             <div align="center"> 
                 <p><b>Frameworks and environments:</b></p>
                 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
@@ -84,7 +84,7 @@
         </td>
         <td valign="top" width="33%" > 
             <img width="100%" height="1"> <!-- Full-width table render on GitHub-->
-            <h3 style="margin:100px">DevOps:</h3>
+            <h2>DevOps:</h2>
             <div align="center">
                 <!--TODO Vercel, GitHub Actions, Section Systems with Windows?, --> 
                 <p><b>Deployment:</b></p>
@@ -103,14 +103,14 @@
     </tr> 
     <tr>
         <td>
-            <h3>Testing:</h3>
+            <h2>Testing:</h2>
             <div align="center">
                 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/></a>
             </div>
             <br/>
         </td>
         <td>
-            <h3>IoT:</h3>
+            <h2>IoT:</h2>
             <div align="center"> 
                 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a> 
                 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a> 
@@ -147,12 +147,6 @@
   <div align="center">
       <a href="https://www.paypal.com/donate/?hosted_button_id=FLPEPKE7UURGW" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50px"/></a> 
   </div>
-
-<style>
-    table {
-        width: 100%;
-    }
-</style>
 
 <!--
 **Hugo-COLLIN/Hugo-COLLIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
