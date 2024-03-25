@@ -94,7 +94,8 @@
                 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
                 <br/><br/><p><b>Code management:</b></p>
                 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
-                <a href="https://github.com/actions" target="_blank"><img style="margin: 10px" src="https://assets-global.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg" alt="GitHub Actions" height="50" /></a> 
+                <a href="https://github.com/actions" target="_blank"><img style="margin: 10px" src="https://assets-global.website-files.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg" alt="GitHub Actions" height="50" /></a>
+                <a href="https://www.jetbrains.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrain" width="45" height="45" title="jetbrains"/></a>
             </div> 
             <br/>
         </td>
@@ -108,6 +109,8 @@
             <h2>Testing:</h2>
             <div align="center">
                 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/></a>
+                <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="mocha" height="50"/></a>
+                <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo.svg" alt="mocha" height="50"/></a>
             </div>
             <br/>
         </td>
