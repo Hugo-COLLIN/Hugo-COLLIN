@@ -12,6 +12,32 @@
 
 🎓 **Currently in 3rd year of IT Computer Studies** - Software Engineering Oriented.<br>💡 **Creativity and curiosity** drive me to create innovative and useful products that meet concrete needs.<br>✅ **My strengths?** I pay particular attention to the user experience and I am committed to carrying out the projects entrusted to me.
 
+# 💻 I lastly worked on:
+<table border="0" align="center" width="150%">
+    <tr>
+        <td valign="top" width="50%>
+            <a href="https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hugo-COLLIN&repo=SaveMyPhind-conversation-exporter">
+            </a>
+        </td>
+        <td valign="top">
+            <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td colspan="2" height="1px">
+            <img width="1000px" height="0" style="margin: 0px">
+        </td>
+    </tr>
+</table>
+
+
 
 # 💻 My Tech Stack:
 <table border="0" align="center" width="150%">
