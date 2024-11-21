@@ -12,6 +12,52 @@
 
 🎓 **Currently in 3rd year of IT Computer Studies** - Software Engineering Oriented.<br>💡 **Creativity and curiosity** drive me to create innovative and useful products that meet concrete needs.<br>✅ **My strengths?** I pay particular attention to the user experience and I am committed to carrying out the projects entrusted to me.
 
+# 💻 I lastly worked on:
+<table border="0" align="center" width="150%">
+    <tr>
+        <td valign="top" width="50%>
+            <a href="https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hugo-COLLIN&repo=SaveMyPhind-conversation-exporter">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+            <a href="https://esbuild.github.io" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/esbuild.svg" alt="ESbuild" height="50" /></a>
+            <a href="https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions" target="_blank"><img style="margin: 10px" src="https://www.iconsdb.com/icons/preview/green/puzzle-4-xxl.png" alt="API WebExtensions" height="50" /></a>
+            <a href="https://chromewebstore.google.com/" target="_blank"><img style="margin: 10px" src="https://www-assets.kolide.com/assets/inventory/device_properties/icons/chrome-extensions-4312d461ebc9499f478fcbe6b6cce5a1c6438636.png" alt="Chrome Web Store Developer Console" height="50" /></a>
+            <a href="https://addons.mozilla.org/fr/firefox/" target="_blank"><img style="margin: 10px" src="https://www-assets.kolide.com/assets/inventory/device_properties/icons/firefox-addons-484ee78e777ebeab2506c09126dbd3a3a969f64c.png" alt="Firefox Store Developer Console" height="50" /></a>
+             <a href="https://microsoftedge.microsoft.com/addons" target="_blank"><img style="margin: 10px" src="https://media.imgcdn.org/repo/2023/03/microsoft-edge/661aa1434295b-microsoft-edge-Icon.webp" alt="Edge Extensions Store Developer Console" height="50" /></a>
+            <a href="https://mixmark-io.github.io/turndown/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/85620511?v=4" alt="Turndown" height="50" /></a>
+            <a href="https://showdownjs.com" target="_blank"><img style="margin: 10px" src="https://d4.alternativeto.net/dlJ79Dy8GX_j_JiBb8ByPDkr1qRpd9W2hTX3-EuCC-A/rs:fit:280:280:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy9zaG93ZG93bmpzXzExMzMxNC5wbmc.png" alt="Showdown" height="50" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%>
+            <a href="https://github.com/OPIDoR/dmp_opidor_react">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=OPIDoR&repo=dmp_opidor_react">
+            </a>
+            <a href="https://github.com/OPIDoR/DMPOPIDoR">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=OPIDoR&repo=DMPOPIDoR">
+            </a>
+        </td>
+        <td>
+            <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+            <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+            <br><br>
+            <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/rails.svg" alt="Ruby on Rails" height="50" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td colspan="2" height="1px">
+            <img width="1000px" height="0" style="margin: 0px">
+        </td>
+    </tr>
+</table>
+
+
 
 # 💻 My Tech Stack:
 <table border="0" align="center" width="150%">
