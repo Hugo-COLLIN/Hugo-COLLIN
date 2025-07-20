@@ -10,7 +10,7 @@
 
 # ✨ In a Nutshell: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugocollin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hugocoll1n) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hugocollin-portfolio) [<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="22px"/>](https://hugocollin.com/support) 
 
-🎓 **Currently in 3rd year of IT Computer Studies** - Software Engineering Oriented.<br>💡 **Creativity and curiosity** drive me to create innovative and useful products that meet concrete needs.<br>✅ **My strengths?** I pay particular attention to the user experience and I am committed to carrying out the projects entrusted to me.
+🎓 **Studying my 5th year in IT and business management** - Information Systems oriented<br>💡 **Creativity and curiosity** drive me to create innovative and useful products that meet concrete needs.<br>✅ **My strengths?** I pay particular attention to the user experience and I am committed to carrying out the projects entrusted to me.
 
 
 # 💻 My Tech Stack:
